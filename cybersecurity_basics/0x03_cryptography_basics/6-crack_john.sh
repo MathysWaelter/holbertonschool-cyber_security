@@ -1,1 +1,1 @@
-sudo john --format=raw-sha256 $1
+john --format=raw-sha256 $1
