@@ -1,2 +1,1 @@
-tcp.time_relative < 2
-
+tcp.connection.syn
