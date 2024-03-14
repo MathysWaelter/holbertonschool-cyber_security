@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo groupadd "$1"
+sudo addgroup "$1"
 touch "$2"
 sudo chmod 767 "$2"
