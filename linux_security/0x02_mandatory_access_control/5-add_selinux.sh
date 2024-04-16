@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo useradd -Z user_u $1
+sudo semanage login -a -s user_u $1
